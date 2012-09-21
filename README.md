@@ -1,4 +1,4 @@
-# Dotfiles tweaked for minimal Cygwin settings (derived from Mathias’s dotfiles)
+# dotfiles for minimal Cygwin settings (derived from Mathias’s dotfiles)
 
 ## Installation
 
